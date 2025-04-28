@@ -34,7 +34,7 @@ const Navbar = () => {
               >
                 {isEducator ? "Educator Dashboard" : "Become Educator"}
               </button>
-              | <Link to="/my-enrolments">My Enrollments</Link>{" "}
+              | <Link to="/my-enrollments">My Enrollments</Link>{" "}
             </>
           )}
         </div>
